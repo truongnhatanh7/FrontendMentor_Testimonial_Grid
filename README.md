@@ -15,7 +15,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [URL](https://truongnhatanh7.github.io/FrontendMentor_Testimonial_Grid/)
 
 ### Built with
 - HTML, CSS
